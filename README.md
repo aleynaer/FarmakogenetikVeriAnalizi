@@ -15,8 +15,8 @@ Arayüz bu çalışmalarla beraber proje süresince uğraşılan modülleri de k
 
 
 ## Gereksinimler
-çalıştırılan cihaza uyumlu chromedriver.exe dosyası (selenium ile yapılan işlemler için)
-KProtoypes 
-Kmodes 
-sklearn 
-PyQt5
+-- çalıştırılan cihaza uyumlu chromedriver.exe dosyası (selenium ile yapılan işlemler için)
+--KProtoypes 
+--Kmodes 
+--sklearn 
+--PyQt5
